@@ -22,7 +22,7 @@
     <finalName>getting-started-tomcat</finalName>
       <plugins>
           <plugin>
-            <groupId>org.apahce.maven</groupId>
+            <groupId>org.apahce.maven.plugins</groupId>
               <artifactId>maven-war-plugin</artifactId>
               <version>2.6</version>
               <configuration>
